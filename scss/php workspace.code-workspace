@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp2\\htdocs\\ci"
+		},
+		{
+			"path": "C:\\xampp2\\htdocs\\PHP-Project"
+		},
+		{
+			"path": "c:\\xampp2\\htdocs\\php-june"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sass_sir"
+	}
+}
